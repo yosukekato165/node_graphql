@@ -27,5 +27,5 @@ app.use(
     graphiql: true,
   })
 );
-app.listen(3030);
-console.log("Running a GraphQL API server at http://localhost:3030/graphql");
+app.listen(3000);
+console.log("Running a GraphQL API server at http://localhost:3000/graphql");
